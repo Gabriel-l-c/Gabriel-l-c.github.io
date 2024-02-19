@@ -1,0 +1,110 @@
+{
+    "main": {
+        "name": "Gabriel Lyra Campos",
+        "description": "sou desenvolvedor web, estudante de engenharia elétrica e designer",
+        "image": "profilef.jpg",
+        "bio": "Sou estudante de engenharia elétrica e autodidata em desenvolvimento web e cibersegurança, eu optei pelo pois a grade curricular, projetos e oportunidades que a universidade disponibiliza para esse curso condiz com minhas expectativas de carreira nas areas de desenvolvimento para inovação, ciberseguraça, robótica e automação.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "gabriellyra.c@gmail.com",
+        "phone": "555-555-5555",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "(Your Street)",
+            "city": "(Your City)",
+            "state": "(Your State)"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/gabriel-lyra-campos",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Gabriel-l-c?tab=repositories",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        
+        "education": [
+            {
+                "school": "IFES",
+                "degree": "Técnico em quimica",
+                "graduated": "Dezembro de 2019",
+                "description": "No instituto pude aprender alem de composições quimica, processos, e laboratorios, metodos de apredizagem e conhecimento, desenvolvi meu raciocinio logico e obtive conhecimentos em diferentes softwares."
+            },
+            {
+                "school": "UFES",
+                "degree": "Engenharia elétrica",
+                "graduated": "Julho 2027",
+                "description": "A Universidade nos possibilita a aplicar conhecimentos que obtamos ao decorrer dos periodos tanto com professor como autodidata, programação, automaticação, desenvolvimento circutos eletricos e paineis solares são alguns exemplos de habilidades que adquirimos no decorrer do curso."
+            }
+        ],
+        "work": [
+            {
+                "company": "Vitória baja",
+                "title": "Assessor",
+                "years": "Fevereiro de 2023 - Setembro de 2023",
+                "description": "Vitória baja é um projeto de extensão da UFES que tem como fundamento o desenvolvimento de um veículo off-road para a competição na SAE brasil."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "65%"
+            },
+            {
+                "name": "HTML",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "40%"
+            },
+            {
+                "name": "CSS",
+                "level": "60%"
+            },
+            {
+                "name": "JAVA",
+                "level": "40%"
+            },
+            {
+                "name": "C",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Projeto - Loja virtual",
+                "category": "Back-end de compra e venda de produtos, no e-commerce em linguagem Pyhton.",
+                "image": "compras.png",
+                "url": "https://github.com/Gabriel-l-c/Loja-Vitual"
+            },
+            {
+                "title": "Projeto - Bomberman",
+                "category": "Desenvolvimento de um jogo em linguagem pyhton, com base no jogo classico do Bomberman ",
+                "image": "Bomberman.png",
+                "url": "https://github.com/Gabriel-l-c/Bomber"
+            },
+            {
+                "title": "Projeto - Magazine",
+                "category": "Desenvolvimento de um website como revista para divulgação de conhecimento",
+                "image": "Logo-original.JPG",
+                "url":"http://sourandpeper.wuaze.com/"
+            }
+        ]
+    }
+}
