@@ -3,7 +3,7 @@
         "name": "Gabriel Lyra Campos",
         "description": "sou desenvolvedor web, estudante de engenharia elétrica e designer",
         "image": "profilef.jpg",
-        "bio": "Sou estudante de engenharia elétrica e autodidata em desenvolvimento web e cibersegurança, eu optei pelo pois a grade curricular, projetos e oportunidades que a universidade disponibiliza para esse curso condiz com minhas expectativas de carreira nas areas de desenvolvimento para inovação, ciberseguraça, robótica e automação.",
+        "bio": "Sou estudante de engenharia elétrica e autodidata em desenvolvimento web e cibersegurança, eu optei pelo curso pois a grade curricular, os projetos e oportunidades que a universidade disponibiliza para esse curso condiz com minhas expectativas de carreira nas areas de desenvolvimento para inovação, ciberseguraça, robótica e automação. Procuro uma oportunidade que desafie minhas habilidade, que disponibilize um ambiente para que eu possa desenvolvê-las de forma mais focada e específica e onde eu possa adicionar adquirir e contribuir com mais conhecimento.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "gabriellyra.c@gmail.com",
         "phone": "555-555-5555",
@@ -15,7 +15,7 @@
             "state": "(Your State)"
         },
         "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "resumedownload": "https://drive.google.com/file/d/1w-IXukmbz32clJFwcIFAVxllxHEgujTi/view?usp=sharing",
         "social": [
             {
                 "name": "linkedin",
@@ -65,23 +65,43 @@
             },
             {
                 "name": "HTML",
-                "level": "70%"
+                "level": "80%"
             },
             {
                 "name": "ReactJs",
-                "level": "40%"
+                "level": "30%"
             },
             {
                 "name": "CSS",
-                "level": "60%"
+                "level": "70%"
             },
             {
                 "name": "JAVA",
-                "level": "40%"
+                "level": "30%"
             },
             {
                 "name": "C",
                 "level": "50%"
+            },
+            {
+                "name": "Proatividade",
+                "level": "80%"
+            },
+            {
+                "name": "Adaptabilidade",
+                "level": "70%"
+            },
+            {
+                "name": "Inteligencia emocional",
+                "level": "65%"
+            },
+            {
+                "name": "Mentalidade de crescimento",
+                "level": "85%"
+            },
+            {
+                "name": "Resolução de conflitos",
+                "level": "75%"
             }
         ]
     },
