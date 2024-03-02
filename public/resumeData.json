@@ -120,10 +120,10 @@
                 "url": "https://github.com/Gabriel-l-c/Bomber"
             },
             {
-                "title": "Projeto - Magazine",
-                "category": "Desenvolvimento de um website como revista para divulgação de conhecimento",
+                "title": "Projeto - loadPage",
+                "category": "Desenvolvimento de um website interativo como repositorio/biblioteca para meus outros sites",
                 "image": "Logo-original.JPG",
-                "url":"https://sournpepper.vercel.app/"
+                "url":"https://myloadingpage.vercel.app/"
             }
         ]
     }
