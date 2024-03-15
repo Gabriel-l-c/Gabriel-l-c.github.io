@@ -424,8 +424,6 @@ ul#nav li.current a { color: #611d00; }
    background: #9c4030;
    padding-top: 90px;
    padding-bottom: 60px;
-
-   
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -437,11 +435,10 @@ ul#nav li.current a { color: #611d00; }
 }
 
 /* Portfolio Content */
-
+#portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-
    background: #fff;
-  /*  overflow: hidden; */
+   overflow: hidden;
    position: relative;
 
    -webkit-transition: all 0.3s ease-in-out;
@@ -451,15 +448,14 @@ ul#nav li.current a { color: #611d00; }
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-
-   display: flex;
+   
+   display: block;
    cursor: pointer;
 }
 
-
 /* overlay */
 .portfolio-item .item-wrap .overlay {
-   position: relative;
+   position: absolute;
    left: 0;
    top: 0;
    width: 100%;
@@ -479,8 +475,8 @@ ul#nav li.current a { color: #611d00; }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 50px;
-   width: 40px;
+   height: 30px;
+   width: 30px;
    font-size: 18px;
    line-height: 30px;
    text-align: center;

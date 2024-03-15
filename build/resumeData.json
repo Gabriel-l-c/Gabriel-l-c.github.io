@@ -124,6 +124,12 @@
                 "category": "Desenvolvimento de um website interativo como repositorio/biblioteca para meus outros sites",
                 "image": "Logo-original.JPG",
                 "url":"https://myloadingpage.vercel.app/"
+            },
+            {
+                "title": "Projeto - Web App",
+                "category": "Desenvolvimento de um aplicativo web interativo, com o objetivo dos usuario compartilharem suas experiencias das disciplinas, e dos professores, cursadas",
+                "image": "panteao_logo.png",
+                "url":"https://panteao.up.railway.app/"
             }
         ]
     }

@@ -87,7 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: #8220, #8220; }
+blockquote, q { quotes: &#8220 &#8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -169,6 +169,7 @@ h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
 h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
+.subheader { }
 
 p { margin: 0 0 30px 0; }
 p img { margin: 0; }
@@ -312,7 +313,8 @@ ol ol, ol ul { margin: 6px 0 6px 30px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: 6px; }
 li { line-height: 18px; margin-bottom: 12px; }
-
+ul.large li { }
+li p { }
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
@@ -442,7 +444,7 @@ dd { margin: 0 0 0 20px; }
    background-color: #E6E8EB;
 	color: #A9ADB2;
 }
-
+.pagination .prev, .pagination .next {}
 
 /*  5. Images  --------------------------------------------------------- */
 
@@ -537,6 +539,7 @@ select {
    margin: 0 0 24px 0;
    border: 0;
    outline: none;
+   vertical-align: middle;
    min-width: 225px;
 	max-width: 100%;
    font-size: 15px;
@@ -617,7 +620,6 @@ input[type="checkbox"] { display: inline; }
    min-height: 1px;
    float: left;
 }
-
 .column.centered, .columns.centered  {
     float: none;
     margin: 0 auto;
@@ -684,10 +686,10 @@ input[type="checkbox"] { display: inline; }
 
 /* block grids
 --------------------------------------------------------------------- */
-/* .bgrid-sixths [class*="column"]   { width: 16.66667%; }
+.bgrid-sixths [class*="column"]   { width: 16.66667%; }
 .bgrid-quarters [class*="column"] { width: 25%; }
 .bgrid-thirds [class*="column"]   { width: 33.33333%; }
-.bgrid-halves [class*="column"]   { width: 50%; } */
+.bgrid-halves [class*="column"]   { width: 50%; }
 
 [class*="bgrid"] [class*="column"] + [class*="column"]:last-child { float: left; }
 
@@ -703,10 +705,10 @@ properly.
 @media only screen and (max-width: 900px) {
 
    /* block grids on small screens */
-/*    .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
+   .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
    .s-bgrid-quarters [class*="column"] { width: 25%; }
    .s-bgrid-thirds [class*="column"]   { width: 33.33333%; }
-   .s-bgrid-halves [class*="column"]   { width: 50%; } */
+   .s-bgrid-halves [class*="column"]   { width: 50%; }
 
    /* block grids left clearing */
    .first { clear: none; }
@@ -724,6 +726,7 @@ properly.
       padding: 0;
 	}
    .column, .columns {
+	   width: auto !important;
 	   float: none;
 	   margin-left: 0;
 	   margin-right: 0;
