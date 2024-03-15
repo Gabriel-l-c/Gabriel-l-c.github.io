@@ -3,7 +3,7 @@
         "name": "Gabriel Lyra Campos",
         "description": "sou desenvolvedor web, estudante de engenharia elétrica e designer",
         "image": "profilef.jpg",
-        "bio": "Sou estudante de engenharia elétrica e autodidata em desenvolvimento web e cibersegurança, eu optei pelo curso pois a grade curricular, os projetos e oportunidades que a universidade disponibiliza para esse curso condiz com minhas expectativas de carreira nas areas de desenvolvimento para inovação, ciberseguraça, robótica e automação. Procuro uma oportunidade que desafie minhas habilidade, que disponibilize um ambiente para que eu possa desenvolvê-las de forma mais focada e específica e onde eu possa adicionar adquirir e contribuir com mais conhecimento.",
+        "bio": "Sou estudante de engenharia elétrica e autodidata em desenvolvimento web e aspirante em cibersegurança, eu optei pelo curso pois a grade curricular, os projetos e oportunidades que a universidade disponibiliza para esse curso condiz com minhas expectativas de carreira nas areas de desenvolvimento para inovação, ciberseguraça, robótica e automação. Procuro uma oportunidade que desafie minhas habilidade, que disponibilize um ambiente para que eu possa desenvolvê-las de forma mais focada e específica e onde eu possa adicionar adquirir e contribuir com mais conhecimento.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "gabriellyra.c@gmail.com",
         "phone": "555-555-5555",
@@ -15,7 +15,7 @@
             "state": "(Your State)"
         },
         "website": "https://github.com/",
-        "resumedownload": "https://drive.google.com/file/d/1w-IXukmbz32clJFwcIFAVxllxHEgujTi/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1kga9YR-fj2TdUtZgnXjunjfuJV0hXr3e/view?usp=drive_link",
         "social": [
             {
                 "name": "linkedin",
@@ -55,7 +55,7 @@
                 "company": "Vitória baja",
                 "title": "Assessor",
                 "years": "Fevereiro de 2023 - Setembro de 2023",
-                "description": "Vitória baja é um projeto de extensão da UFES que tem como fundamento o desenvolvimento de um veículo off-road para a competição na SAE brasil."
+                "description": "Trabalho voluntário no projeto de extensão da UFES Vitória baja, que tem como fundamento o desenvolvimento de um veículo off-road para a competição na SAE brasil. Trabalhei na area de marketing, onde eramos responsaveis por setores cmo: Administração da imagem publica e divulgação do projeto.Desvolvimento e planejamento de medidas para arrecadação de recursos. Comunição com apoiadores. "
             }
         ],
         "skills": [
@@ -76,7 +76,7 @@
                 "level": "70%"
             },
             {
-                "name": "JAVA",
+                "name": "JAVASCRIPT",
                 "level": "30%"
             },
             {
@@ -85,7 +85,7 @@
             },
             {
                 "name": "Proatividade",
-                "level": "80%"
+                "level": "75%"
             },
             {
                 "name": "Adaptabilidade",
@@ -102,6 +102,14 @@
             {
                 "name": "Resolução de conflitos",
                 "level": "75%"
+            },
+            {
+                "name": "Trello",
+                "level": "60%"
+            },
+            {
+                "name": "Pacote office",
+                "level": "70%"
             }
         ]
     },
@@ -128,7 +136,7 @@
             {
                 "title": "Projeto - Web App",
                 "category": "Desenvolvimento de um aplicativo web interativo, com o objetivo dos usuario compartilharem suas experiencias das disciplinas, e dos professores, cursadas",
-                "image": "panteao_logo.png",
+                "image": "magic_blue_shield.png",
                 "url":"https://panteao.up.railway.app/"
             }
         ]
