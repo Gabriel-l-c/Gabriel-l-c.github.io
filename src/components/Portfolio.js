@@ -8,12 +8,11 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: theme.palette.primary.light,
     },
     card: {
-        maxHeight: 400,
-        maxWidth: 300,
         margin: 0,
     },
     media: {
-        height: 160,
+
+        height: 260,
     },
 }));
 
@@ -44,7 +43,7 @@ export default function Portfolio(props) {
     return (
         <section className={classes.root} id="portfolio">
             <Container className="row">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Meus Projetos</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                         {projects}
                     </div>
